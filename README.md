@@ -16,7 +16,7 @@ Raw data → Mage ETL → BigQuery (star schema) → Looker Studio dashboard.
 
 ## 📊 Dashboard
 ![Dashboard Overview](assets/dashboard_overview.png)
-> [View Live Dashboard](<[your-Looker-Studio-link](https://lookerstudio.google.com/reporting/a40fec90-8aaa-44da-9fbd-abc078db754d)>)
+> [View Live Dashboard](<https://lookerstudio.google.com/reporting/a40fec90-8aaa-44da-9fbd-abc078db754d>)
 
 ### Key Insights
 - 100 K trips analyzed, $1.63 M revenue.
